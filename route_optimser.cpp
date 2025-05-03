@@ -636,24 +636,10 @@ int main(){
  resetColor();
  
  changeColor(++i);
- cout<<"Anushka Verma\n";
- cout<<"\n";
- resetColor();
- 
- changeColor(++i);
  cout<<"Sambhav Jain\n";
  cout<<"\n";
  resetColor();
- 
- changeColor(++i);
- cout<<"Arpita Tomar\n";
- cout<<"\n";
- resetColor();
- 
- changeColor(198);
- cout<<"Anushree Sahu\n";
- cout<<"\n";
- resetColor();
+
  
  changeColor(203);
  cout<<"Enjoy the Experience!\n";
